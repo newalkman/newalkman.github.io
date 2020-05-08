@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newalkman.Github.io/html</id>
-    <title>Gridea</title>
-    <updated>2020-05-08T09:29:47.063Z</updated>
+    <title>WenbOpinion</title>
+    <updated>2020-05-08T10:15:28.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://newalkman.Github.io/html"/>
     <link rel="self" href="https://newalkman.Github.io/html/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>胆大妄为dare to talk
+无可奈何here to talk
+满腔热忱have to talk</subtitle>
     <logo>https://newalkman.Github.io/html/images/avatar.png</logo>
     <icon>https://newalkman.Github.io/html/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, WenbOpinion</rights>
     <entry>
         <title type="html"><![CDATA[WenbOpinion]]></title>
-        <id>https://newalkman.Github.io/html/post/hello-gridea/</id>
-        <link href="https://newalkman.Github.io/html/post/hello-gridea/">
+        <id>https://newalkman.Github.io/html/post/hello-Wenbo/</id>
+        <link href="https://newalkman.Github.io/html/post/hello-Wenbo/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  MAY I ASK <strong>TEA OR COFFEE</strong> ?<br>
-✍️  <strong>Wenbopinion</strong> 一个静静撰写作自己内心，分享情绪，生活、心情、知识、笔记、创意... ...的小阁楼。</p>
+        <updated>2020-05-08T09:45:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  MAY I ASK <strong>TEA OR COFFEE</strong> ?  <img src="https://newalkman.Github.io/html/post-images/1588932815315.jpg" alt="" loading="lazy"><br>
+✍️  <strong>WenbOpinion</strong> 静静撰写内心，分享情绪，生活、心情、知识、笔记、创意。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  MAY I ASK <strong>TEA OR COFFEE</strong> ?<br>
-✍️  <strong>Wenbopinion</strong> 一个静静撰写作自己内心，分享情绪，生活、心情、知识、笔记、创意... ...的小阁楼。</p>
+        <content type="html"><![CDATA[<p>👏  MAY I ASK <strong>TEA OR COFFEE</strong> ?  <img src="https://newalkman.Github.io/html/post-images/1588932815315.jpg" alt="" loading="lazy"><br>
+✍️  <strong>WenbOpinion</strong> 静静撰写内心，分享情绪，生活、心情、知识、笔记、创意。</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
